@@ -1,4 +1,4 @@
-# System-Requirements-Scan
+# System-Requirements-Scanner
 An online tool designed for verifying system compatibility by comparing specified requirements with a user's system, determining whether it meets the criteria for sufficiency or insufficiency.
 Perfect for remote user(s)
 
